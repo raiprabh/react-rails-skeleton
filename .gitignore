@@ -40,3 +40,10 @@ bower.json
 
 # Ignore Byebug command history file.
 .byebug_history
+
+# Ignore node modules
+/client/node_modules
+
+# Generated js bundle
+/app/assets/javascripts/bundle.js
+
